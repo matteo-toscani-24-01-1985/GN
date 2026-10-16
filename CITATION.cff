@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the GN version used. This v1.0 beta reference is provisional until a public release is verified and a permanent DOI is available."
+title: "GN: Guided N Estimator — Statistical Power and Sample-Size Planning"
+type: software
+version: "1.0.0-beta.1"
+date-released: 2026-10-14
+url: "https://github.com/matteo-toscani-24-01-1985/Nagus"
+repository-code: "https://github.com/matteo-toscani-24-01-1985/Nagus"
+authors:
+  - given-names: "Matteo"
+    family-names: "Toscani"
+  - given-names: "Anna"
+    family-names: "Metzger"
+keywords:
+  - statistical power
+  - sample size
+  - open-source research software
+  - experimental design
