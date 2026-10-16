@@ -57,10 +57,10 @@ Important limitations include the balanced-cell standardisation of ANOVA effect 
 
 # Availability, feedback, and contributions
 
-The project repository URL is **[GN on GitHub](https://github.com/matteo-toscani-24-01-1985/Nagus)** (URL supplied by the project owner; public accessibility and current contents should be checked before release). The public site can subsequently be hosted via GitHub Pages, with an archived release and DOI created only after the software and documentation have been reviewed.
+The project repository URL is **[GN on GitHub](https://github.com/matteo-toscani-24-01-1985/GN)** The public site can subsequently be hosted via GitHub Pages, with an archived release and DOI created only after the software and documentation have been reviewed.
 
-As **GN v1.0 beta** is under active development, users who encounter incorrect results, technical bugs, confusing instructions, or missing design cases are **warmly invited to open a GitHub issue** with a reproducible example. Suggestions, independent numerical checks, documentation improvements, and code contributions are also welcome through the repository. Such reports will help improve accuracy, clarity, and accessibility ahead of a stable release. The copyright line in the bundled MIT license still requires confirmation by the developers; no Zenodo DOI or peer-review status is claimed.
+As **GN v1.0 beta** is under active development, users who encounter incorrect results, technical bugs, confusing instructions, or missing design cases are **warmly invited to send an email to mtoscani@bournemouth.ac.uk** with a reproducible example.
 
 # AI assistance disclosure
 
-Generative AI assisted in prototyping the application and drafting supporting material. Before submission, the human authors should review the code, independently validate statistical methods, verify literature references, establish authorship and licensing, and provide the AI disclosure required by the receiving journal.
+Generative AI assisted in prototyping the application and drafting supporting material. 
